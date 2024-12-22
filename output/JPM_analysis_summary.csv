@@ -1,0 +1,10 @@
+Metric,Value
+signals,"{'RSI': 'Neutral', 'MACD': 'Sell', 'Long_Term_Trend': 'Bullish', 'Stochastic': 'Neutral', 'MFI': 'Neutral', 'Bollinger': 'Within Bands', 'Volume_Trend': 'Increasing', 'Volatility': 'Moderate'}"
+last_price,237.60000610351562
+volume,32290100
+rsi,36.63888315368799
+macd,-0.41861588691915586
+stochastic_k,41.36345256986705
+mfi,40.031528667007734
+atr,4.431432451520648
+roc,-3.945664004994144

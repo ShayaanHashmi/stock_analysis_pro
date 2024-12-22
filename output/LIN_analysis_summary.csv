@@ -1,0 +1,10 @@
+Metric,Value
+signals,"{'RSI': 'Oversold', 'MACD': 'Sell', 'Long_Term_Trend': 'Bearish', 'Stochastic': 'Oversold', 'MFI': 'Neutral', 'Bollinger': 'Within Bands', 'Volume_Trend': 'Increasing', 'Volatility': 'Moderate'}"
+last_price,424.30999755859375
+volume,6677600
+rsi,19.689752278607912
+macd,-9.126448598634397
+stochastic_k,13.843703573137258
+mfi,21.3392959755804
+atr,7.065000261579241
+roc,-5.591403690437794
